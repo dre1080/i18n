@@ -12,6 +12,7 @@ Docs at <http://godoc.org/github.com/dre1080/i18n>
 ## Author
 
 Andrea Franz - <http://gravityblast.com>
+
 Andrew 'ando' Wayne - <http://github.com/dre1080>
 
 ## Contributing
