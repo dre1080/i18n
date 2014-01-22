@@ -2,10 +2,12 @@
 
 [![Build Status](https://travis-ci.org/dre1080/i18n.png?branch=master)](https://travis-ci.org/dre1080/i18n)
 
-I18n for the Go language.
+I18n for the [Go](golang.org) language.
 
 Fork of [i18n-go](github.com/pilu/i18n-go).
 But uses TOML for locale file syntax.
+
+Docs at <http://godoc.org/github.com/dre1080/i18n>
 
 ## Author
 
