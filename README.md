@@ -1,5 +1,7 @@
 # i18n
 
+[![baby-gopher](https://raw2.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](http://www.babygopher.org)
+
 [![Build Status](https://travis-ci.org/dre1080/i18n.png?branch=master)](https://travis-ci.org/dre1080/i18n)
 
 I18n for the [Go](golang.org) language.
